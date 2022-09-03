@@ -1,0 +1,29 @@
+{
+	"perfil": [
+		{
+			"email": "alurageek@alura.com",
+			"password": "123456",
+			"id": 1
+		}
+	],
+	"producto": [
+		{
+			"nombre": "Produto A",
+			"precio": "R$ 60.00",
+			"descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat",
+			"imagen": "starwars1.png",
+			"categoria": "Star Wars",
+			"id": 1
+		}
+	],
+	"producto": [
+		{
+			"nombre": "Producto B",
+			"precio": "R$ 60.00",
+			"descripcion": "Lorem ipsum dolor sit amet consectetur Tempora culpa quam sit odit? Esse adipisci voluptat",
+			"imagen": "starwars2.png",
+			"categoria": "Star Wars",
+			"id": 2
+		}
+	]
+}
